@@ -1,6 +1,6 @@
 # AIGCGPL
 
-## ## Artificial Intelligence Generated Code General Public License
+## Artificial Intelligence Generated Code General Public License
 
 **Version 1.0**
 
