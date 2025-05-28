@@ -21,7 +21,7 @@ Distribute the Generated Code: You may distribute copies of the Generated Code, 
 
 Attribution:
 When You distribute the Generated Code, You must include a prominent notice at the top of each file containing the Generated Code or in a separate accompanying document, stating that the code was generated using a generative artificial intelligence system and is licensed under this Generative Artificial Intelligence Code Generation License. The notice should include a reference to this License's full text or its URL if available online.
-Example notice: "This code was generated using a generative artificial intelligence system and is licensed under the Artificial Intelligence Generated Code General Public License (AIGCGPL). For more information, see [License URL]."
+Example notice: "This code was generated using a generative artificial intelligence system and is licensed under the Artificial Intelligence Generated Code General Public License (AIGCGPL). For more information, see [https://github.com/OpenChiip/AIGCGPL/blob/main/LICENSE]."
 No Warranty:
 The Generated Code is provided "as is" without any warranties, express or implied. The Licensor disclaims all warranties, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non - infringement.
 You assume all risks associated with the use of the Generated Code, including but not limited to the possibility of errors, bugs, or security vulnerabilities.
